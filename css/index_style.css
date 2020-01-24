@@ -1,0 +1,85 @@
+body
+{
+    background-color: rgb(26, 22, 22);
+    
+}
+.rows img
+{
+    width:300px ;
+    height:300px !important;
+}
+h6
+{
+    width: 80%;
+    transition: color 0.5s;
+    -webkit-transition: color 0.5s;
+    -moz-transition: color 0.5s;
+    -ms-transition: color 0.5s;
+    -o-transition: color 0.5s;
+}
+.newsrow:hover h6
+{
+    color: #F0A306 !important;
+}
+a
+{
+    text-decoration: none !important;
+}
+nav
+{
+    border-bottom:1px solid #F0A306 !important ;
+}
+.logo
+{
+    font-size: 40px !important;
+    font-family: 'Yellowtail', cursive;
+}
+
+.navbar-brand
+{
+    color: #F0A306 !important ; 
+}
+.nav-link
+{
+    transition: color 0.5s ;
+    -webkit-transition: color 0.5s ;
+    -moz-transition: color 0.5s ;
+    -ms-transition: color 0.5s ;
+    -o-transition: color 0.5s ;
+}
+.nav-link:hover
+{
+    color: #F0A306 !important ;
+}
+
+.carousel-inner  h5
+{
+    text-shadow: 1px 1px #000 ;
+}
+.carousel-inner  p
+{
+    text-shadow: 2px 1px #000 ;
+    font-size: 20px;
+}
+.carousel-control-next-icon {
+    position: absolute;
+    right: 350;
+}
+.carousel-control-prev-icon {
+    position: absolute;
+    left: 350;
+}
+.carousel
+{
+    margin-top: 150px !important;
+}
+footer
+{
+    background-color:#F0A306 !important ;
+}
+marquee
+{
+    position: absolute;
+    top: 50;
+    background-color:#F0A306 !important ;
+}
